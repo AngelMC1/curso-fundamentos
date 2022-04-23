@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=i
+comment3.target=void\ InformacionUbicacion(int)
+comment4.params=i
+comment4.target=void\ FrasesDeZombies(int)
+numComments=5

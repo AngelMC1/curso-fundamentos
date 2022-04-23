@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ubicacion
+comment1.params=
+comment1.target=java.lang.String\ getNombreU()
+comment2.params=NombreU
+comment2.target=void\ setNombreU(java.lang.String)
+comment3.params=
+comment3.target=float\ getDistancia()
+comment4.params=Distancia
+comment4.target=void\ setDistancia(float)
+comment5.params=
+comment5.target=int\ getNumeroZombies()
+comment6.params=NumeroZombies
+comment6.target=void\ setNumeroZombies(int)
+comment7.params=
+comment7.target=java.util.ArrayList\ getInformacionUbicacion()
+comment8.params=InformacionUbicacion
+comment8.target=void\ setInformacionUbicacion(Ubicacion)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
